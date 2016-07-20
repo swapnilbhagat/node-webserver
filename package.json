@@ -1,0 +1,6 @@
+{
+	"name":"node-webserver",
+	"version":"0.0.1",
+	"description":"Sample node webserver application",
+	"dependencies":{}
+}
